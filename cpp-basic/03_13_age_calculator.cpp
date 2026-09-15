@@ -191,8 +191,6 @@ int main()
         cout<<"\nDays until your next birthday:"<<days<<" days."<<endl;
     }
 
-    int pelnoletni = 18, posel = 21, senator = 30, przydent = 35;
-
     cout<<"\nBased on age criteria in Poland:"<<endl;
     if(user_years>=35)
     {
