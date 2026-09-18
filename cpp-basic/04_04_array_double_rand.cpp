@@ -13,7 +13,7 @@ int main()
     const int M=300;
     double tab[M]= {};
 
-    // Alternatywny sposób zerowania tablicy
+    // Alternatywny sposob zerowania tablicy
     /* for(int i=0; i<M; i++)
      {
          tab[i]=0;
