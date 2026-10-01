@@ -18,7 +18,7 @@ More advanced C++ exercises, including object-oriented programming.
 
 ## Development
 
-This project were created as a summary of my computer science studies. The projects were developed over two semesters.
+This project was created as a summary of my computer science studies. The projects were developed over two semesters.
 
 ## Project Status
 
